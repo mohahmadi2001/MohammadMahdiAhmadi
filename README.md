@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm a backend programmer<br>👯 I have strong skills in
+🔭 I'm a backend developer<br>👯 I have strong skills in
 working with teams and collaborative tasks.<br>🤝 I'm highly adaptable and always eager to learn and
 update my skills with great enthusiasm.
 
